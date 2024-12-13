@@ -30,5 +30,5 @@ Padrões de auto-organização,
 Este projeto foi inspirado por: Clusters de Jeffery Ventrella http://www.ventrella.com/Clusters/. Não tenho acesso ao código de Ventrella, mas acho que a principal diferença deste projeto em relação aos outros projetos de vida de partículas é que não implementei a detecção de colisão e isso tornou possível simular milhares de partículas em tempo real. Além disso, adicionei controles de GUI para alterar os parâmetros em tempo real, permitindo fácil ajuste fino e exploração, portanto, consegui encontrar alguns padrões nunca vistos antes emergindo de alguns modelos extremamente simples de relações.
 O código aqui é provavelmente uma ordem de magnitude mais simples do que qualquer outro código de vida artificial por aí, porque comecei este código apenas como um material educacional para não programadores e o público em geral para provar o ponto de que a complexidade pode surgir da simplicidade.
 
-#Codigo original feito por https://github.com/hunar4321
-#Modificações e tradução por Ariano Batista
+Codigo original feito por https://github.com/hunar4321
+Modificações e tradução por Ariano Batista
