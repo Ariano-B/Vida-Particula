@@ -3,8 +3,7 @@ Um programa simples para simular Vida Artificial primitiva usando regras simples
 
 Demo online (versão JavaScript):
 -------------
-Click here for a live demo (JavaScript): 
-  - 2d - https://hunar4321.github.io/particle-life/particle_life.html
+
 
 Exemplos de resultados
 --------------------------------------------------------
@@ -18,7 +17,7 @@ Você não precisa ser exato com os parâmetros para reproduzir esses padrões. 
 
 Para usar:
 ------------
-Baixe este repositório. Descompacte o arquivo e vá para a pasta /particle_life/bin/ e clique em particle_life.html e abra no navegador de sua preferencia
+Baixe este repositório. Descompacte o arquivo e vá para a pasta e clique em particle_life.html e abra no navegador de sua preferencia
 
 Tópicos relacionados:
 --------------------
