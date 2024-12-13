@@ -17,7 +17,7 @@ Você não precisa ser exato com os parâmetros para reproduzir esses padrões. 
 
 Para usar:
 ------------
-Baixe este repositório. Descompacte o arquivo e vá para a pasta e clique em particle_life.html e abra no navegador de sua preferencia
+Va em "releases" clique em vida-particula.zip Descompacte o arquivo e vá para a pasta e clique em particle_life.html e abra no navegador de sua preferencia
 
 Tópicos relacionados:
 --------------------
