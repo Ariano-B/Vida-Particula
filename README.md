@@ -3,7 +3,7 @@ Um programa simples para simular Vida Artificial primitiva usando regras simples
 
 Demo online (versão JavaScript):
 -------------
-ariano-b.github.io/Vida-Particula/particle_life.html
+https://ariano-b.github.io/Vida-Particula/particle_life.html
 
 Exemplos de resultados
 --------------------------------------------------------
